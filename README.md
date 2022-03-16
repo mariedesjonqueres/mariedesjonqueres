@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github page! 
+
+You will find my work completed during the 9 weeks at the Wagon intensive bootcamp, which includes:
+- 🗓 The daily exercises to learn how to code
+- 👯 Two repositories for group projects:
+		- 🚋 One was an airbnb-like platform to rent wagons to party (very original huh?)
+		- 🎵 And the other was a crowdfunding platform to invest in musicians' royalties 
+
 
 <!--
 **mariedesjonqueres/mariedesjonqueres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
